@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format":64.9,
-    "description": "For Family"
+    "description": "For Family",
+    "min_format": 69,
+    "max_format": 94
   }
 }
