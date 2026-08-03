@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/target_on"
+    },
+    "power=0": {
+      "model": "minecraft:block/target"
+    }
+  }
+}
