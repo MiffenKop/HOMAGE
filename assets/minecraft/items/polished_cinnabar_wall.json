@@ -1,0 +1,29 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "minecraft:has_component",
+		"component": "minecraft:item_model",
+		"on_true": {
+			"type": "minecraft:select",
+			"property": "minecraft:component",
+			"component": "minecraft:custom_name",
+			"cases": [
+				{
+					"when": "Border",
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:block/border"
+					}
+				}
+			],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "minecraft:block/polished_cinnabar_wall_inventory"
+			}
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/polished_cinnabar_wall_inventory"
+		}
+	}
+}
