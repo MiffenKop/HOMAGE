@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/sniffer_egg",
+	"textures": {
+		"particle": "block/sniffer_egg_top_crack",
+		"top": "block/sniffer_egg_top_crack",
+		"side": "block/sniffer_egg_side_crack",
+		"bottom": "block/sniffer_egg_bottom_crack"
+	}
+}
