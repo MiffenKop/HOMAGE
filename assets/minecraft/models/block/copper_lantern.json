@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_lantern",
+  "textures": {
+    "base": "block/copper_lantern",
+    "light": "block/copper_torch"
+  }
+}
