@@ -1,0 +1,6 @@
+{
+	"parent": "block/template_lantern",
+	"textures": {
+		"light": "block/soul_torch"
+	}
+}

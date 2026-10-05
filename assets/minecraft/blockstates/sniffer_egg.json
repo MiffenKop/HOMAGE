@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "hatch=0": {
+      "model": "minecraft:block/sniffer_egg"
+    },
+    "hatch=1": {
+      "model": "minecraft:block/sniffer_egg_stage_1"
+    },
+    "hatch=2": {
+      "model": "minecraft:block/sniffer_egg_stage_2"
+    }
+  }
+}

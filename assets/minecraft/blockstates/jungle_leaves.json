@@ -1,0 +1,73 @@
+{
+	"variants": {
+		"distance=1": {
+			"model": "minecraft:block/jungle_leaves_fruit"
+		},
+		"distance=2": [
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves_fruit"
+			}
+		],
+		"distance=3": [
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves_fruit"
+			}
+		],
+		"distance=4": [
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves_fruit"
+			}
+		],
+		"distance=5": [
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves_fruit"
+			}
+		],
+		"distance=6": [
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves_fruit"
+			}
+		],
+		"distance=7": [
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves"
+			},
+			{
+				"model": "block/jungle_leaves_fruit"
+			}
+		]
+	}
+}
