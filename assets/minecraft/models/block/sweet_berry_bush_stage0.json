@@ -1,34 +1,29 @@
 {
-	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
 	"textures": {
-		"0": "block/bushnew",
-		"particle": "block/bushnew"
+		"0": "block/berrybranches0",
+		"particle": "block/berrybranches0"
 	},
 	"elements": [
 		{
-			"from": [3, -2, 3],
-			"to": [13, 6, 13],
-			"rotation": {"angle": 0, "axis": "y", "origin": [12, -3, 13]},
+			"from": [-1, 0, 8],
+			"to": [17, 17, 8],
+			"shade_direction_override": "up",
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 3, 8]},
 			"faces": {
-				"north": {"uv": [3, 4, 13, 12], "texture": "#0"},
-				"east": {"uv": [3, 4, 13, 12], "texture": "#0"},
-				"south": {"uv": [3, 4, 13, 12], "texture": "#0"},
-				"west": {"uv": [3, 4, 13, 12], "texture": "#0"},
-				"up": {"uv": [13, 13, 3, 3], "texture": "#0"},
-				"down": {"uv": [13, 3, 3, 13], "texture": "#0"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
-		}
-	],
-	"display": {},
-	"groups": [
-		0,
+		},
 		{
-			"name": "group",
-			"origin": [8, 8, 0],
-			"scope": 0,
-			"color": 0,
-			"children": []
+			"from": [-1, 0, 8],
+			"to": [17, 17, 8],
+			"shade_direction_override": "up",
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
 		}
 	]
 }
