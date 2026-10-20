@@ -1,0 +1,16 @@
+{
+  "section": "textures",
+  "default_value": false,
+  "tooltip_images": {
+    "true": {
+      "texture": "homage:preview/netherrack_style/enabled.png",
+      "width": 120,
+      "height": 80
+    },
+    "false": {
+      "texture": "homage:preview/netherrack_style/disabled.png",
+      "width": 120,
+      "height": 80
+    }
+  }
+}

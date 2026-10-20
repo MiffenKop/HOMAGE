@@ -1,0 +1,9 @@
+{
+	"parent": "block/cube_bottom_top_inner_faces",
+	"textures": {
+		"particle": "block/scaffolding_top",
+		"top": "block/scaffolding_top",
+		"side": "block/scaffolding_stable_side",
+		"bottom": "block/scaffolding_stable_bottom"
+	}
+}

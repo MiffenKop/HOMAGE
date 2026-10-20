@@ -3,5 +3,16 @@
     "description": "By Ozymoronic and MiffenKop",
     "min_format": 69,
     "max_format": 256
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "netherrack_update",
+        "polytone_condition": "config('homage:netherrack_style')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
+      }
+    ]
   }
 }
