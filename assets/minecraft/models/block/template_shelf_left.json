@@ -1,0 +1,21 @@
+{
+	"parent": "block/template_shelf_body",
+	"elements": [
+		{
+			"from": [0, 1, 13],
+			"to": [15, 15, 14],
+			"faces": {
+				"north": {"uv": [1, 1, 16, 15], "texture": "#slot"}
+			}
+		},
+		{
+			"from": [15, 1, 11],
+			"to": [16, 15, 15],
+			"faces": {
+				"north": {"uv": [6, 16, 7, 2], "texture": "#planks"},
+				"east": {"uv": [7, 16, 11, 2], "texture": "#planks", "cullface": "east"},
+				"west": {"uv": [7, 16, 11, 2], "texture": "#planks"}
+			}
+		}
+	]
+}
