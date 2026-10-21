@@ -1,6 +1,4 @@
 {
-	"format_version": "26.3",
-	"credit": "Made by Miffen Kop!",
 	"parent": "block/block",
 	"textures": {
 		"log_ends": "block/campfire_log",
