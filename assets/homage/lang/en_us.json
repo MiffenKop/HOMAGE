@@ -1,3 +1,6 @@
 {
-  "config.homage.netherrack_style": "Netherrack Remake"
+	"config.homage.netherrack_style.tooltip": "Updates Netherrack texture(s) to be more inline with other textures",
+	"config.homage.storymode_egg.tooltip": "Updates Netherrack texture(s) to be more inline with other textures",
+	"config.homage.netherrack_style": "Netherrack Remake",
+	"config.homage.storymode_egg": "Better Dragon Egg"
 }

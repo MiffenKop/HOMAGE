@@ -1,0 +1,16 @@
+{
+  "section": "textures",
+  "default_value": false,
+  "tooltip_images": {
+    "true": {
+      "texture": "homage:preview/storymode_egg/enabled.png",
+      "width": 80,
+      "height": 80
+    },
+    "false": {
+      "texture": "homage:preview/storymode_egg/disabled.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+}
