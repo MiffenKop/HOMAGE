@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_shelf_inventory",
+  "textures": {
+    "back": "minecraft:block/bamboo_shelf_back",
+    "top": "minecraft:block/bamboo_shelf",
+    "planks": "minecraft:block/bamboo_planks"
+  }
+}
