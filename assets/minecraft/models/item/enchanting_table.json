@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/pedestal",
+	"textures": {
+		"north": "textures/block/enchanting_table_side",
+		"east": "textures/enchanting_table_side",
+		"south": "item/enchanting_table_side",
+		"west": "item/enchanting_table_side",
+		"up": "item/enchanting_table_top",
+		"down": "item/enchanting_table_down"
+	}
+}
