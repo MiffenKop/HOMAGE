@@ -19,6 +19,13 @@
         "formats": [0, 0],
         "min_format": 0,
         "max_format": 0
+      },
+      {
+        "directory": "golden_wheat",
+        "polytone_condition": "config('homage:golden_wheat')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
       }
     ]
   }

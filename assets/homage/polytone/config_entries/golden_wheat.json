@@ -1,0 +1,16 @@
+{
+  "section": "textures",
+  "default_value": false,
+  "tooltip_images": {
+    "true": {
+      "texture": "homage:preview/golden_wheat/enabled.png",
+      "width": 120,
+      "height": 80
+    },
+    "false": {
+      "texture": "homage:preview/golden_wheat/disabled.png",
+      "width": 120,
+      "height": 80
+    }
+  }
+}
