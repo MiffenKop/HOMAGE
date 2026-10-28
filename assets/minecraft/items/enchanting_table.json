@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "item/enchanting_table"
+        "model": "block/enchanting_table"
       },
       {
         "type": "minecraft:model",
