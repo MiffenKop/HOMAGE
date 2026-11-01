@@ -1,2 +1,0 @@
-Ghast texture are from Classic Faithful 32x (2026r22), this does not include Glastling, Harness, or dried ghast textures. Some minor edits were made to be more inline with this projects vision but it is still mostly the Classic Faithfuls texture (Made by: Evorp, & Vattic).
-https://faithfulpack.net https://faithfulpack.net/license
