@@ -1,7 +1,7 @@
 {
 	"config.homage.netherrack_style.tooltip": "Updates Netherrack texture(s) to be more inline with other textures",
-	"config.homage.storymode_egg.tooltip": "Updates Netherrack texture(s) to be more inline with other textures",
-	"config.homage.golden_wheat.tooltip": "Temp tooltip",
+	"config.homage.storymode_egg.tooltip": "Replaces Dragon egg texture with the one from MC:SM",
+	"config.homage.golden_wheat.tooltip": "Changes wheat to be a golden colour",
 	"config.homage.netherrack_style": "Netherrack Remake",
 	"config.homage.storymode_egg": "Better Dragon Egg",
 	"config.homage.golden_wheat": "Golden Wheat"
