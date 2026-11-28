@@ -26,6 +26,13 @@
         "formats": [0, 0],
         "min_format": 0,
         "max_format": 0
+      },
+      {
+        "directory": "variated_bookshelf",
+        "polytone_condition": "config('homage:variated_bookshelf')",
+        "formats": [0, 0],
+        "min_format": 0,
+        "max_format": 0
       }
     ]
   }

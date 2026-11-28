@@ -1,0 +1,50 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "minecraft:has_component",
+		"component": "minecraft:item_model",
+		"on_true": {
+			"type": "minecraft:select",
+			"property": "minecraft:component",
+			"component": "minecraft:custom_name",
+			"cases": [
+				{
+					"when": "Essential Handbook",
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/essential_handbook"
+					}
+				},
+				{
+					"when": "Redstone Handbook",
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/redstone_handbook"
+					}
+				},
+				{
+					"when": "Combat Handbook",
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/combat_handbook"
+					}
+				},
+				{
+					"when": "Construction Handbook",
+					"model": {
+						"type": "minecraft:model",
+						"model": "minecraft:item/construction_handbook"
+					}
+				}
+			],
+			"fallback": {
+				"type": "minecraft:model",
+				"model": "minecraft:item/book"
+			}
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/book"
+		}
+	}
+}

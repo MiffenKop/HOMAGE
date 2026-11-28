@@ -1,0 +1,16 @@
+{
+  "section": "textures",
+  "default_value": false,
+  "tooltip_images": {
+    "true": {
+      "texture": "homage:preview/variated_bookshelf/enabled.png",
+      "width": 80,
+      "height": 80
+    },
+    "false": {
+      "texture": "homage:preview/variated_bookshelf/disabled.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+}
